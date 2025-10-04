@@ -1,0 +1,12 @@
+/PrjtMechystarter.github.io
+    index.html         -> Home page
+    about.html         -> About / info page
+    data.html          -> Data / charts
+    gallery.html       -> Images / media
+    contact.html       -> Contact / form
+    /css
+        style.css      -> Styles for your site
+    /js
+        charts.js      -> Optional JavaScript (charts/interactive stuff)
+    /images
+        project.png    -> Main project image
