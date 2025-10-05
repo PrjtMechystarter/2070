@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    color: #333;
     margin: 20px;
     line-height: 1.6;
 }
@@ -10,3 +11,4 @@ header img {
     display: block;
     margin-top: 10px;
 }
+
